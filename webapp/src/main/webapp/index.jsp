@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Projet validé de jenkins devops</h1>
+    <h1>Projet mis a jour de jenkins</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
